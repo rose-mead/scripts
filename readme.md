@@ -1,4 +1,4 @@
-A bash script to open chrome tabs for foundations students (blog, reflections and github repo).   
+A bash script to open chrome tabs for foundations students (blog, reflections and github).   
    
 
 ## Setup
